@@ -1,0 +1,15 @@
+config/database.php
+
+public/storage
+public/hot
+storage/*.key
+.env.*.php
+.env.php
+.env
+Homestead.yaml
+Homestead.json
+config/app.php
+public/js/app_theme.js
+app/Providers/AppServiceProvider.php
+/app/Providers/AppServiceProvider.php
+/public/js/app_theme.js
